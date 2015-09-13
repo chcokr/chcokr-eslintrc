@@ -2,6 +2,9 @@
   "name": "chcokr-eslintrc",
   "version": "0.0.0",
   "description": "My favorite eslintrc.",
+  "peerDependencies": {
+    "babel-eslint": "*"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chcokr/chcokr-eslintrc.git"
