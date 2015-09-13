@@ -1,0 +1,19 @@
+{
+  "name": "chcokr-eslintrc",
+  "version": "0.0.0",
+  "description": "My favorite eslintrc.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chcokr/chcokr-eslintrc.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintrc"
+  ],
+  "author": "YJ Yang <chcokr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chcokr/chcokr-eslintrc/issues"
+  },
+  "homepage": "https://github.com/chcokr/chcokr-eslintrc#readme"
+}
